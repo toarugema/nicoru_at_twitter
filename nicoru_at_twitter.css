@@ -1,5 +1,5 @@
 /* ==UserStyle==
-@name           twitter_like_change_nicoru
+@name           nicoru_at_twitter
 @namespace      github.com/openstyles/stylus
 @version        1.0.0
 @description    twitterでニコろう
@@ -72,6 +72,7 @@
         color: rgb(244, 144, 12) !important;
         
     }
+    
     /*
     ふぁぼった後の数字
     */
@@ -80,7 +81,5 @@
         color: rgb(244, 144, 12) !important;
         
     }
-
-    
     
 }
